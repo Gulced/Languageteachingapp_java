@@ -14,7 +14,7 @@ public class Main {
             System.out.println("Sözlüğe ulaşmak için 1'i\nSeviye testine ulaşmak için 2'yi\nEgzersizlere ulaşmak için 3'ü\nUygulamadan ayrılmak için 4'ü tuşlayınız.");
 
             Scanner scan = new Scanner(System.in);
-
+b
             int secme;
             secme = scan.nextInt();
 
